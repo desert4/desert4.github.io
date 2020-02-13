@@ -13,3 +13,13 @@ body {
     padding: 25px;
     margin: 25px;
 }
+
+footer {
+    position: relative;
+    bottom: 0px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
