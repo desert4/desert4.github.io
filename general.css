@@ -1,4 +1,15 @@
 * {
     box-sizing: border-box;
-    /* background-image: "portfolio_background.jpg"; */
+}
+
+body {
+    background-image: url("./images/portfolio_background.jpg");
+}
+
+.content {
+    background-color: lightgray;
+    border-radius: 7px;
+    width: 95%;
+    padding: 25px;
+    margin: 25px;
 }
